@@ -1,0 +1,62 @@
+/* website text 
+--------------------
+*/
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* header designe */
+ 
+.header{
+   display: flex;
+    background-color: black;
+    width: 132o px;
+    height:55Opx;
+    border-radius: 30px;
+    margin-left:140px;
+    margin-top: 50px;
+    margin-right:140px ;
+    padding-top: 20 px;
+}
+.top-banner{
+    color: white;
+}
+.watch-live{
+    border: 1px solid black;
+    background-color: coral;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.transfer-section{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+
+.icon{
+    display: flex;
+}
+
+
+#goal{
+    color: blue;
+}
+.footer{
+  
+    border: 1px solid red;
+    border: 20px 100px;
+    background-color: pink;
+    height: 300px;
+    top padding: 10px;
+
+}
+.footer-banner{
+    display: flex;
+  
+ 
+}
+li{
+    list-style-type: none;
+}
+   
